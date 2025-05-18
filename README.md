@@ -1,18 +1,18 @@
-#  Fake News Detection using NLP
+# Fake News Detection using NLP
 
 This project showcases a practical implementation of fake news detection using Natural Language Processing (NLP) techniques.
 
-##  File Included
-- `FakeNews_NLP.ipynb`: Contains the full code for text preprocessing, POS tagging, named entity recognition, sentiment analysis, and visualization.
+## File Included
+- `FakeNews_NLP.ipynb`: Contains the full code for text preprocessing, POS tagging, named entity recognition, sentiment analysis, and data visualization.
 
-##  Key Techniques Used
+## Key Techniques Used
 - Text cleaning and normalization
 - POS Tagging using spaCy
 - Named Entity Recognition (NER)
 - Sentiment analysis using TextBlob
-- Word cloud and data visualization
+- Word cloud generation and data visualization
 
-##  Tools & Libraries
+## Tools & Libraries
 - Python
 - Jupyter Notebook
 - spaCy
@@ -20,7 +20,7 @@ This project showcases a practical implementation of fake news detection using N
 - NLTK
 - pandas, matplotlib, seaborn
 
-##  How to Run
+## How to Run
 1. Install the required libraries:
    ```bash
    pip install -r requirements.txt
