@@ -24,8 +24,13 @@ This project showcases a practical implementation of fake news detection using N
 1. Install the required libraries:
    ```bash
    pip install -r requirements.txt
+### LSA Topic Modeling on Fake News
+![image](https://github.com/user-attachments/assets/8f152737-66e8-4e57-8d8d-f082f64bd21d)
 
+### Classification Report (SVM)
+![image](https://github.com/user-attachments/assets/ad49ac64-3290-4f7b-bc90-2be3c739ad71)
 
+## Visualizations :
 ![image](https://github.com/user-attachments/assets/86944aa7-5656-4c53-92f8-e1fa3a4f3098)
 
 
