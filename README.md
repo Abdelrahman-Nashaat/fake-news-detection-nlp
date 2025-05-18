@@ -3,7 +3,7 @@
 This project showcases a practical implementation of fake news detection using Natural Language Processing (NLP) techniques.
 
 ##  File Included
-- `8 Practical.ipynb`: Contains the full code for text preprocessing, POS tagging, named entity recognition, sentiment analysis, and visualization.
+- `FakeNews_NLP.ipynb`: Contains the full code for text preprocessing, POS tagging, named entity recognition, sentiment analysis, and visualization.
 
 ##  Key Techniques Used
 - Text cleaning and normalization
