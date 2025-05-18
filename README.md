@@ -25,19 +25,30 @@ This project showcases a practical implementation of fake news detection using N
    ```bash
    pip install -r requirements.txt
 ### LSA Topic Modeling on Fake News
+This image shows the topics identified by Latent Semantic Analysis (LSA) applied to the fake news dataset.
+
 ![image](https://github.com/user-attachments/assets/8f152737-66e8-4e57-8d8d-f082f64bd21d)
 
+
+
 ### Classification Report (SVM)
+This classification report shows the performance of the SVM model, achieving a balanced accuracy of 87% for classifying fake vs factual news.
 ![image](https://github.com/user-attachments/assets/ad49ac64-3290-4f7b-bc90-2be3c739ad71)
 
+
+
+
 ## Visualizations :
+This word cloud highlights the most frequent words in the fake news dataset.
 ![image](https://github.com/user-attachments/assets/86944aa7-5656-4c53-92f8-e1fa3a4f3098)
 
+## Sentiment Analysis Chart
 
-
+This pie chart shows the sentiment distribution of the news articles, categorizing them into positive, negative, and neutral sentiments.
 ![image](https://github.com/user-attachments/assets/85246c9d-9002-4060-be96-b718cb65dbb4)
 
 
+## Additional Visuals
 
 ![image](https://github.com/user-attachments/assets/963a4f4e-7f3a-436d-8107-140ad0ba8f96)
 
