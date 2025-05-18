@@ -27,6 +27,8 @@ This project showcases a practical implementation of fake news detection using N
 ### LSA Topic Modeling on Fake News
 This image shows the topics identified by Latent Semantic Analysis (LSA) applied to the fake news dataset.
 
+
+
 ![image](https://github.com/user-attachments/assets/8f152737-66e8-4e57-8d8d-f082f64bd21d)
 
 
