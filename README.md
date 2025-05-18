@@ -34,7 +34,7 @@ This image shows the topics identified by Latent Semantic Analysis (LSA) applied
 
 
 ### Classification Report (SVM)
-This classification report shows the performance of the SVM model, achieving a balanced accuracy of 87% for classifying fake vs factual news.
+This classification report shows the performance of the SVM model, achieving a balanced accuracy of 90% for classifying fake vs factual news.
 ![image](https://github.com/user-attachments/assets/ad49ac64-3290-4f7b-bc90-2be3c739ad71)
 
 
