@@ -24,3 +24,7 @@ This project showcases a practical implementation of fake news detection using N
 1. Install the required libraries:
    ```bash
    pip install -r requirements.txt
+
+
+![image](https://github.com/user-attachments/assets/d713c1f6-3517-4336-9dac-e9c7abab405d)
+
